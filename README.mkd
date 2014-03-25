@@ -57,7 +57,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [oclminer: OpenCL bitcoin miner](https://github.com/tcatm/oclminer) `C` (tcatm)
 * [Phoenix-Miner: Modular, fast, efficient Bitcoin miner](https://github.com/jedi95/Phoenix-Miner) `Python` (jedi95)
 * [tumen_miner: An experimental BitCoin miner, which uses WebCL for pooled block calculations.](https://github.com/temujin9/tumen_miner) `PHP` (temujin9)
-* [Minimal-Bitcoin-Miner: A very simple, fully functional CPU based Bitcoin Miner in C#. Uses the GETWORK protocol to connect to pool. A great reference implementation if you are trying to understand how Bitcoin mining works.](https://github.com/lithander/Minimal-Bitcoin-Miner) `C#` (lithander)
+* [Minimal-Bitcoin-Miner: CPU based Bitcoin Miner in C#](https://github.com/lithander/Minimal-Bitcoin-Miner) `C#` (lithander)
 
 #### Wallets
 * [coinpunk: self-hosted Bitcoin wallet service](https://github.com/kyledrake/coinpunk) `Javascript` (kyledrake)
