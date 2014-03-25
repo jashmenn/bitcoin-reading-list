@@ -18,9 +18,11 @@
 * [Bitcoin-JavaScript-Miner: A Bitcoin miner implemented in JavaScript.](https://github.com/progranism/Bitcoin-JavaScript-Miner) `JavaScript` (progranism)
 * [cellminer: Bitcoin miner for the Cell Broadband Engine Architecture](https://github.com/verement/cellminer) `C` (verement)
 * [oclminer: OpenCL bitcoin miner](https://github.com/tcatm/oclminer) `C` (tcatm)
+* [Phoenix-Miner: Modular, fast, efficient Bitcoin miner](https://github.com/jedi95/Phoenix-Miner) `Python` (jedi95)
 
 #### Wallets
-* [bitcoin-wallet: Bitcoin Evolved - A new kind of Bitcoin client to make Bitcoin easy and enjoyable to use](https://github.com/elis/bitcoin-wallet) `Python` (elis)
+* [pywallet: bitcoin wallet importer/exporter](https://github.com/joric/pywallet) `Python` (joric)
+* [bitcoin-wallet: A new kind of Bitcoin client use](https://github.com/elis/bitcoin-wallet) `Python` (elis)
 
 #### Clients
 * [bitcoin-js-remote: Javascript remote for bitcoind](https://github.com/tcatm/bitcoin-js-remote) `JavaScript` (tcatm)
@@ -31,20 +33,26 @@
 * [bitcoinjs: Bitcoin client library in JavaScript using Node.js / MongoDB](https://github.com/bitcoinjs/bitcoinjs-server/) `javascript` (justmoon)
 * [caesure: Python Bitcoin Client](https://github.com/samrushing/caesure) `Python` (samrushing)
 * [chrome-bitcoin: bitcoin client in chrome](https://github.com/kiba/chrome-bitcoin) `JavaScript` (kiba)
+* [node-bitcoin: Communicate with bitcoind via JSON-RPC](https://github.com/freewil/node-bitcoin) `JavaScript` (freewil)
 
 #### Mobile
 * [bitcoinApp: bitcoin for iOS devices](https://github.com/udibr/bitcoinApp) `Objective-C` (udibr) 
 * [bitcoin-android: Send and receive bitcoins from your Android phone](https://github.com/barmstrong/bitcoin-android) `Java` (barmstrong)
 * [bitcoin-mobile-android](https://github.com/bitcoin-labs/bitcoin-mobile-android) `Java` (Schaaf)
+* [BitcoinDroid: A thin Android client for Bitcoin](https://github.com/opposablebrain/BitcoinDroid) `Java` (opposablebrain)
 
 #### Exchanges
 * [bitcoin-central: Bitcoin Central](https://github.com/davout/bitcoin-central) `Ruby` (davout)
 * [Dark-Exchange: Dark Exchange is a distributed p2p exchange for bitcoin.](https://github.com/macourtney/Dark-Exchange) `Clojure` (macourtney)
+* [btcnearme: Find Bitcoin traders near you... settle in cash](https://github.com/famulus/btcnearme) `Ruby` (famulus)
 
 #### Merchant Tools
 * [BitPay: Bitcoin payment application](https://github.com/warpi/BitPay) `Java` (warpi)
 * [bitcoin-wp-e-commerce: Bitcoin payment plugin for WP e-Commerce for WordPress](https://github.com/mikegogulski/bitcoin-wp-e-commerce) `PHP` (mikegogulski)
 * [Magento-Bitcoin-Payment-Module: Magento Payment Gateway Plugin for Bitcoin RPC API](https://github.com/jalder/Magento-Bitcoin-Payment-Module) `PHP` (jalder)
+* [bitcoin-virtuemart: Bitcoin payment plugin for VirtueMart shopping cart for Joomla!](https://github.com/mikegogulski/bitcoin-virtuemart) `PHP` (mikegogulski)
+* [magento-bitcoin: Bitcoin payment module for Magento.](https://github.com/ticean/magento-bitcoin) `PHP` (ticean)
+* [Zen-Cart-Bitcoin-Payment-Module: A payment modules to interact with bitcoind for zen cart.](https://github.com/jalder/Zen-Cart-Bitcoin-Payment-Module) `PHP` (jalder)
 
 #### Bots
 * [Redbit: Automated Bitcoin Trading Bot](https://github.com/hyppo/Redbit) `Python` (hyppo)
@@ -58,6 +66,7 @@
 * [bitcoin-ruby: bitcoin utils and protocol in ruby.](https://github.com/lian/bitcoin-ruby) `Ruby` (lian)
 
 #### Pooling
+* [p2pool: Peer-to-peer Bitcoin mining pool](https://github.com/forrestv/p2pool) `Python` (forrestv)
 * [bitcoin-pool: early pooling server](https://github.com/doublec/bitcoin-pool) `C++` (doublec)
 * [What is Pool Hopping?](http://bitcoin.stackexchange.com/questions/5072/what-is-pool-hopping) (Perry)
 * [bitHopper: A python based poolhopper for bitcoin](https://github.com/c00w/bitHopper) `Python` (c00w)
