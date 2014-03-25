@@ -1,4 +1,4 @@
-## Bitcoin Projects and Reading List
+## Programming Bitcoin Reading List and Projects
 
 * The goal of this document is to provide a reading list for learning to program Bitcoin transactions
 * The theme of this document is practical and pragmatic instruction with the goal of writing code 
