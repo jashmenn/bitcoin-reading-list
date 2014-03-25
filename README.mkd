@@ -1,10 +1,12 @@
 ## Bitcoin Projects and Reading List
 
 * The goal of this document is to provide a reading list for learning to program Bitcoin transactions
-* The document is split into two major sections: [Code](#code) and [Content](#content)
+* The theme of this document is practical and pragmatic instruction with the goal of writing code 
+
+The document is split into two major sections: [Code](#code) and [Content](#content)
+
 * The Content section contains a reading list which emphasizes programming Bitcoin transactions
 * The Code section contains a list of open-source bitcoin projects ranging from modern popular tools to early historic implementations
-* The theme of this document is practical and pragmatic instruction with the goal of writing code 
 * WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/eigenjoy/bitcoin-reading-list/issues)
 
 ### <a name="content"></a>Content
