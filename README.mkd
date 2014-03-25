@@ -16,11 +16,16 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) (Buterin)
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) (Driscoll)
 * [Bitcoin Developer Guide](http://bitcoindev.us.to/en/developer-guide)
+* [Bitcoin Scripts](http://www.bitcoinsecurity.org/2012/07/22/7/) (Koshy)
+
+#### Tutorials
+* [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) (Taaki)
 
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
 * [Annotated bitcoin paper](http://news.rapgenius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated) (Satoshi / Rap Genius Community)
 * [Proof of Ownership](http://frozenlock.files.wordpress.com/2011/11/master-bitcoin.pdf) (Fortin)
+* [Colored Coins](https://bitcoil.co.il/BitcoinX.pdf) (Rosenfeld)
 
 #### Specifications
 * [BIP70: Payments Protocol](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) (Andresen)
@@ -28,6 +33,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [BIP32: Hierarchical Deterministic (HD) Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) (Wuille)
 * [BIP32 Implementation: Money Tree HD Wallet](https://github.com/BitVault/money-tree) (BitVault)
 * [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
+* [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses)
 
 #### Videos
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
@@ -77,6 +83,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [picocoin: A small bitcoin client](https://github.com/jgarzik/picocoin) `C` (jgarzik)
 * [sx: sx - command line Bitcoin to empower the sysadmin](https://github.com/spesmilo/sx) `Python` (spesmilo)
 * [Safebit: Chrome app wallet](https://github.com/elis/Safebit) (elis)
+
 #### Clients
 * [libbitcoin: libbitcoin asynchronous C++ library for Bitcoin](https://github.com/spesmilo/libbitcoin) `C++` (spesmilo)
 * [electrum: Bitcoin thin client](https://github.com/spesmilo/electrum) `Python` (spesmilo)
@@ -94,6 +101,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [python-bitcoinlib: Bitcoin library](https://github.com/jgarzik/python-bitcoinlib) `Python` (jgarzik)
 * [cbitcoin: A low-level bitcoin library written in standard C.](https://github.com/MatthewLM/cbitcoin) `C` (MatthewLM)
 * [GoBit: A Golang implementation of Bitcoin](https://github.com/ThePiachu/GoBit) `Go` (ThePiachu)
+* [Protocoin: A pure Python Bitcoin protocol implementation](https://github.com/perone/protocoin) `Python` (perone)
 
 #### Mobile
 * [bitcoin-wallet: Bitcoin Wallet app for your Android device](https://github.com/schildbach/bitcoin-wallet) `Java` (schildbach)
