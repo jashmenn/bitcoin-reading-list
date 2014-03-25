@@ -1,7 +1,12 @@
 ## Bitcoin Projects and Reading List
 
-* A list of open-source bitcoin projects and reading list, with emphasis on programming Bitcoin transactions
-* WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/eigenjoy/bitcoin-projects/issues)
+* The goal of this document is to provide a reading list for learning to program Bitcoin transactions
+* The document is split into two major sections: [Code](#code) and [Content](#content)
+* The Code section contains a list of open-source bitcoin projects ranging from modern popular tools to early historic implementations
+* The Content section contains a reading list which emphasizes programming Bitcoin transactions
+* WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/eigenjoy/bitcoin-reading-list/issues)
+
+### <a name="code"></a>Code
 
 #### Core
 * [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
@@ -74,6 +79,8 @@
 
 #### Sites
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
+
+### <a name="content"></a>Content
 
 #### Posts
 * [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1zT8vhusM60gT9oUEpTu-n5urzwXGyUKjnVINJNjwnwg/edit#heading=h.6mkjs7nc4ccw) (Kofler)
