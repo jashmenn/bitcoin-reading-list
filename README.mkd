@@ -1,0 +1,30 @@
+## Bitcoin Projects and Reading List
+
+* A list of open-source bitcoin projects and reading list, with emphasis on programming Bitcoin transactions
+* WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/eigenjoy/bitcoin-projects/issues)
+
+#### Miners
+* [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
+* [poclbm: PyOpenCL bitcoin miner](https://github.com/m0mchil/poclbm) `Python` (m0mchil) 
+* [DiabloMiner: OpenCL miner for Bitcoin](https://github.com/Diablo-D3/DiabloMiner) `Java` (Diablo-D3)
+* [cpuminer: CPU miner for bitcoin](https://github.com/jgarzik/cpuminer) `C` (jgarzik)
+
+#### Wallets
+* [bitcoinApp: bitcoin for iOS devices](https://github.com/udibr/bitcoinApp) `Objective-C` (udibr) 
+
+#### Posts
+* [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1zT8vhusM60gT9oUEpTu-n5urzwXGyUKjnVINJNjwnwg/edit#heading=h.6mkjs7nc4ccw) (Kofler)
+* [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) (Buterin)
+
+#### Papers
+* [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
+* [Annotated bitcoin paper](http://news.rapgenius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated) (Satoshi / Rap Genius Community)
+
+#### Videos
+
+#### Libraries
+
+#### Presentations
+
+#### Courseware
+
