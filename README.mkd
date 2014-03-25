@@ -7,7 +7,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 
 * The Content section contains a reading list which emphasizes programming Bitcoin transactions
 * The Code section contains a list of open-source bitcoin projects ranging from modern popular tools to early historic implementations
-* WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/eigenjoy/bitcoin-reading-list/issues)
+* WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/jashmenn/bitcoin-reading-list/issues)
 
 ### <a name="content"></a>Content
 
@@ -56,7 +56,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [cellminer: Bitcoin miner for the Cell Broadband Engine Architecture](https://github.com/verement/cellminer) `C` (verement)
 * [oclminer: OpenCL bitcoin miner](https://github.com/tcatm/oclminer) `C` (tcatm)
 * [Phoenix-Miner: Modular, fast, efficient Bitcoin miner](https://github.com/jedi95/Phoenix-Miner) `Python` (jedi95)
-* [tumen_miner: An experimental BitCoin miner, which uses WebCL for pooled block calculations.](https://github.com/temujin9/tumen_miner) `PHP` (temujin9)
+* [tumen_miner: An experimental BitCoin miner, which uses WebCL](https://github.com/temujin9/tumen_miner) `PHP` (temujin9)
 * [Minimal-Bitcoin-Miner: CPU based Bitcoin Miner in C#](https://github.com/lithander/Minimal-Bitcoin-Miner) `C#` (lithander)
 
 #### Wallets
