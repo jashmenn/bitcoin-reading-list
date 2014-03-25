@@ -2,9 +2,28 @@
 
 * The goal of this document is to provide a reading list for learning to program Bitcoin transactions
 * The document is split into two major sections: [Code](#code) and [Content](#content)
-* The Code section contains a list of open-source bitcoin projects ranging from modern popular tools to early historic implementations
 * The Content section contains a reading list which emphasizes programming Bitcoin transactions
+* The Code section contains a list of open-source bitcoin projects ranging from modern popular tools to early historic implementations
 * WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/eigenjoy/bitcoin-reading-list/issues)
+
+### <a name="content"></a>Content
+
+#### Posts
+* [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1zT8vhusM60gT9oUEpTu-n5urzwXGyUKjnVINJNjwnwg/edit#heading=h.6mkjs7nc4ccw) (Kofler)
+* [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) (Buterin)
+* [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) (Driscoll)
+
+#### Papers
+* [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
+* [Annotated bitcoin paper](http://news.rapgenius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated) (Satoshi / Rap Genius Community)
+
+#### Specifications
+* [BIP70: Payments Protocol](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) (Andresen)
+* [Working with the Payments Protocol](https://code.google.com/p/bitcoinj/wiki/PaymentProtocol) (Andresen)
+
+#### Videos
+* [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
+* [Coding Multi-Signature Addresses](https://www.youtube.com/watch?v=zIbUSaZBJgU) (D'Angelo)
 
 ### <a name="code"></a>Code
 
@@ -79,24 +98,4 @@
 
 #### Sites
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
-
-### <a name="content"></a>Content
-
-#### Posts
-* [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1zT8vhusM60gT9oUEpTu-n5urzwXGyUKjnVINJNjwnwg/edit#heading=h.6mkjs7nc4ccw) (Kofler)
-* [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) (Buterin)
-
-#### Papers
-* [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
-* [Annotated bitcoin paper](http://news.rapgenius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated) (Satoshi / Rap Genius Community)
-
-#### Specifications
-
-#### Videos
-
-#### Libraries
-
-#### Presentations
-
-#### Courseware
 
