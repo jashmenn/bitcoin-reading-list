@@ -37,6 +37,12 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoinjs-lib: Bitcoin-related functions implemented in pure JavaScript](https://github.com/bitcoinjs/bitcoinjs-lib) `JavaScript` (bitcoinjs)
 * [btcd: alternative full node bitcoin implementation written in Go](https://github.com/conformal/btcd) `Go` (conformal)
 
+#### Tools
+* [pybitcointools: SImple, common-sense Bitcoin-themed Python ECC library](https://github.com/vbuterin/pybitcointools) `Python` (vbuterin)
+* [bitcointools: Python-based tools for the Bitcoin cryptocurrency system](https://github.com/gavinandresen/bitcointools) `Python` (gavinandresen)
+* [bitcoin-ruby: bitcoin utils and protocol in ruby.](https://github.com/lian/bitcoin-ruby) `Ruby` (lian)
+* [pycoin: Python-based Bitcoin utility library.](https://github.com/richardkiss/pycoin) `Python` (richardkiss)
+
 #### Miners
 * [poclbm: PyOpenCL bitcoin miner](https://github.com/m0mchil/poclbm) `Python` (m0mchil) 
 * [DiabloMiner: OpenCL miner for Bitcoin](https://github.com/Diablo-D3/DiabloMiner) `Java` (Diablo-D3)
@@ -59,6 +65,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin-wallet: A new kind of Bitcoin client](https://github.com/elis/bitcoin-wallet) `Python` (elis)
 
 #### Clients
+* [libbitcoin: libbitcoin asynchronous C++ library for Bitcoin](https://github.com/spesmilo/libbitcoin) `C++` (spesmilo)
 * [electrum: Bitcoin thin client](https://github.com/spesmilo/electrum) `Python` (spesmilo)
 * [BitcoinArmory: Python-Based Bitcoin Software](https://github.com/etotheipi/BitcoinArmory) `Python` (etotheipi)
 * [bitcoin-js-remote: Javascript remote for bitcoind](https://github.com/tcatm/bitcoin-js-remote) `JavaScript` (tcatm)
@@ -77,12 +84,18 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin-android: Send and receive bitcoins from your Android phone](https://github.com/barmstrong/bitcoin-android) `Java` (barmstrong)
 * [bitcoin-mobile-android](https://github.com/bitcoin-labs/bitcoin-mobile-android) `Java` (Schaaf)
 * [BitcoinDroid: A thin Android client for Bitcoin](https://github.com/opposablebrain/BitcoinDroid) `Java` (opposablebrain)
+* [CoreBitcoin: Well-documented Bitcoin implementation in Objective-C](https://github.com/oleganza/CoreBitcoin) `C` (oleganza)
 
 #### Exchanges
 * [buttercoin: Opensource Bitcoin Exchange](https://github.com/buttercoin/buttercoin) `Javascript` (buttercoin)
+* [QtBitcoinTrader: Secure Multi Trading Client](https://github.com/JulyIGHOR/QtBitcoinTrader) `C++` (JulyIGHOR)
+* [BitWasp: Open Source Bitcoin Marketplace Software](https://github.com/Bit-Wasp/BitWasp) `PHP` (Bit-Wasp)
 * [bitcoin-central: Bitcoin Central](https://github.com/davout/bitcoin-central) `Ruby` (davout)
+* [ZeroReserve: Friend 2 Friend Payment and Bitcoin exchange](https://github.com/zeroreserve/ZeroReserve) `C++` (zeroreserve)
+* [benjamin: bitcoin trading bot & analytics platform](https://github.com/mathisonian/benjamin) `JavaScript` (mathisonian)
 * [Dark-Exchange: Dark Exchange is a distributed p2p exchange for bitcoin.](https://github.com/macourtney/Dark-Exchange) `Clojure` (macourtney)
 * [btcnearme: Find Bitcoin traders near you... settle in cash](https://github.com/famulus/btcnearme) `Ruby` (famulus)
+* [bitrated: Bitrated.com - Bitcoin arbitration marketplace](https://github.com/shesek/bitrated) `CoffeeScript` (shesek)
 
 #### Merchant Tools
 * [BitPay: Bitcoin payment application](https://github.com/warpi/BitPay) `Java` (warpi)
@@ -101,10 +114,6 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin-abe: Abe: block browser for Bitcoin and similar currencies](https://github.com/jtobey/bitcoin-abe) `Python` (jtobey)
 * [node-bitcoin-explorer: A Block Explorer clone built using node-bitcoin-p2p](https://github.com/bitcoinjs/node-bitcoin-explorer) `JavaScript` (bitcoinjs)
 
-#### Tools
-* [bitcointools: Python-based tools for the Bitcoin cryptocurrency system](https://github.com/gavinandresen/bitcointools) `Python` (gavinandresen)
-* [bitcoin-ruby: bitcoin utils and protocol in ruby.](https://github.com/lian/bitcoin-ruby) `Ruby` (lian)
-
 #### Pooling
 * [p2pool: Peer-to-peer Bitcoin mining pool](https://github.com/forrestv/p2pool) `Python` (forrestv)
 * [bitcoin-pool: early pooling server](https://github.com/doublec/bitcoin-pool) `C++` (doublec)
@@ -114,5 +123,6 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 
 #### Sites
 * [bitstarter-leaderboard: Bitcoin-powered crowdfunder](https://github.com/startup-class/bitstarter-leaderboard) `Javascript` (Srinivasan)
+* [feedopensource: Iteratively Fund Open Source Projects With Bitcoin](https://github.com/dominictarr/feedopensource) `JavaScript` (dominictarr)
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
 
