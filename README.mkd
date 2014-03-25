@@ -12,7 +12,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 ### <a name="content"></a>Content
 
 #### Posts
-* [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1zT8vhusM60gT9oUEpTu-n5urzwXGyUKjnVINJNjwnwg/edit#heading=h.6mkjs7nc4ccw) (Kofler)
+* [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1D_gi_7Sf9sOyAHG25cMpOO4xtLq3iJUtjRwcZXFLv1E/edit) (Kofler)
 * [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) (Buterin)
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) (Driscoll)
 * [Bitcoin Developer Guide](http://bitcoindev.us.to/en/developer-guide)
