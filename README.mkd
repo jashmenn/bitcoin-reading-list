@@ -3,14 +3,68 @@
 * A list of open-source bitcoin projects and reading list, with emphasis on programming Bitcoin transactions
 * WIP: please send suggestions to [@eigenjoy](https://twitter.com/eigenjoy) or [open a GitHub issue](https://github.com/eigenjoy/bitcoin-projects/issues)
 
-#### Miners
+#### Core
 * [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
+* [bitcoin-qt: Qt GUI for C++ Bitcoin client](https://github.com/laanwj/bitcoin-qt) `C++` (laanwj)
+* [bitcoinjs-lib: Bitcoin-related functions implemented in pure JavaScript](https://github.com/bitcoinjs/bitcoinjs-lib) `JavaScript` (bitcoinjs)
+
+#### Miners
 * [poclbm: PyOpenCL bitcoin miner](https://github.com/m0mchil/poclbm) `Python` (m0mchil) 
 * [DiabloMiner: OpenCL miner for Bitcoin](https://github.com/Diablo-D3/DiabloMiner) `Java` (Diablo-D3)
 * [cpuminer: CPU miner for bitcoin](https://github.com/jgarzik/cpuminer) `C` (jgarzik)
+* [Open-Source-FPGA-Bitcoin-Miner: Bitcoin Miner for Altera FPGAs](https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner) `Verilog` (progranism)
+* [jsMiner: A Javascript Bitcoin miner](https://github.com/jwhitehorn/jsMiner) `JavaScript` (jwhitehorn)
+* [pyminer: Python miner for bitcoin](https://github.com/jgarzik/pyminer) `Python` (jgarzik)
+* [Bitcoin-JavaScript-Miner: A Bitcoin miner implemented in JavaScript.](https://github.com/progranism/Bitcoin-JavaScript-Miner) `JavaScript` (progranism)
+* [cellminer: Bitcoin miner for the Cell Broadband Engine Architecture](https://github.com/verement/cellminer) `C` (verement)
+* [oclminer: OpenCL bitcoin miner](https://github.com/tcatm/oclminer) `C` (tcatm)
 
 #### Wallets
+* [bitcoin-wallet: Bitcoin Evolved - A new kind of Bitcoin client to make Bitcoin easy and enjoyable to use](https://github.com/elis/bitcoin-wallet) `Python` (elis)
+
+#### Clients
+* [bitcoin-js-remote: Javascript remote for bitcoind](https://github.com/tcatm/bitcoin-js-remote) `JavaScript` (tcatm)
+* [bitcoinjs-gui: Bitcoin client implementation in HTML5/JavaScript](https://github.com/bitcoinjs/bitcoinjs-gui) `JavaScript` (bitcoinjs)
+* [bitcoin-php: Bitcoin library for PHP](https://github.com/mikegogulski/bitcoin-php) `PHP` (mikegogulski)
+* [bitcoin-python: Friendly bitcoin API binding for Python](https://github.com/toomanysecrets0/bitcoin-python) `Python` (toomanysecrets0)
+* [python-bitcoinrpc: Python interface to bitcoin's JSON-RPC API](https://github.com/jgarzik/python-bitcoinrpc) `Python` (jgarzik)
+* [bitcoinjs: Bitcoin client library in JavaScript using Node.js / MongoDB](https://github.com/bitcoinjs/bitcoinjs-server/) `javascript` (justmoon)
+* [caesure: Python Bitcoin Client](https://github.com/samrushing/caesure) `Python` (samrushing)
+* [chrome-bitcoin: bitcoin client in chrome](https://github.com/kiba/chrome-bitcoin) `JavaScript` (kiba)
+
+#### Mobile
 * [bitcoinApp: bitcoin for iOS devices](https://github.com/udibr/bitcoinApp) `Objective-C` (udibr) 
+* [bitcoin-android: Send and receive bitcoins from your Android phone](https://github.com/barmstrong/bitcoin-android) `Java` (barmstrong)
+* [bitcoin-mobile-android](https://github.com/bitcoin-labs/bitcoin-mobile-android) `Java` (Schaaf)
+
+#### Exchanges
+* [bitcoin-central: Bitcoin Central](https://github.com/davout/bitcoin-central) `Ruby` (davout)
+* [Dark-Exchange: Dark Exchange is a distributed p2p exchange for bitcoin.](https://github.com/macourtney/Dark-Exchange) `Clojure` (macourtney)
+
+#### Merchant Tools
+* [BitPay: Bitcoin payment application](https://github.com/warpi/BitPay) `Java` (warpi)
+* [bitcoin-wp-e-commerce: Bitcoin payment plugin for WP e-Commerce for WordPress](https://github.com/mikegogulski/bitcoin-wp-e-commerce) `PHP` (mikegogulski)
+* [Magento-Bitcoin-Payment-Module: Magento Payment Gateway Plugin for Bitcoin RPC API](https://github.com/jalder/Magento-Bitcoin-Payment-Module) `PHP` (jalder)
+
+#### Bots
+* [Redbit: Automated Bitcoin Trading Bot](https://github.com/hyppo/Redbit) `Python` (hyppo)
+
+#### Block Exploration
+* [bitcoin-abe: Abe: block browser for Bitcoin and similar currencies](https://github.com/jtobey/bitcoin-abe) `Python` (jtobey)
+* [node-bitcoin-explorer: A Block Explorer clone built using node-bitcoin-p2p](https://github.com/bitcoinjs/node-bitcoin-explorer) `JavaScript` (bitcoinjs)
+
+#### Tools
+* [bitcointools: Python-based tools for the Bitcoin cryptocurrency system](https://github.com/gavinandresen/bitcointools) `Python` (gavinandresen)
+* [bitcoin-ruby: bitcoin utils and protocol in ruby.](https://github.com/lian/bitcoin-ruby) `Ruby` (lian)
+
+#### Pooling
+* [bitcoin-pool: early pooling server](https://github.com/doublec/bitcoin-pool) `C++` (doublec)
+* [What is Pool Hopping?](http://bitcoin.stackexchange.com/questions/5072/what-is-pool-hopping) (Perry)
+* [bitHopper: A python based poolhopper for bitcoin](https://github.com/c00w/bitHopper) `Python` (c00w)
+* [Bitcoin-mining-proxy: Multi-pool, multi-worker proxy for Bitcoin miners ](https://github.com/cdhowie/Bitcoin-mining-proxy) `PHP` (cdhowie)
+
+#### Sites
+* [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
 
 #### Posts
 * [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1zT8vhusM60gT9oUEpTu-n5urzwXGyUKjnVINJNjwnwg/edit#heading=h.6mkjs7nc4ccw) (Kofler)
@@ -19,6 +73,8 @@
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
 * [Annotated bitcoin paper](http://news.rapgenius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated) (Satoshi / Rap Genius Community)
+
+#### Specifications
 
 #### Videos
 
