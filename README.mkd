@@ -35,6 +35,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin](https://github.com/bitcoin/bitcoin) `C++` (Satoshi) 
 * [bitcoin-qt: Qt GUI for C++ Bitcoin client](https://github.com/laanwj/bitcoin-qt) `C++` (laanwj)
 * [bitcoinjs-lib: Bitcoin-related functions implemented in pure JavaScript](https://github.com/bitcoinjs/bitcoinjs-lib) `JavaScript` (bitcoinjs)
+* [btcd: alternative full node bitcoin implementation written in Go](https://github.com/conformal/btcd) `Go` (conformal)
 
 #### Miners
 * [poclbm: PyOpenCL bitcoin miner](https://github.com/m0mchil/poclbm) `Python` (m0mchil) 
@@ -49,10 +50,17 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Phoenix-Miner: Modular, fast, efficient Bitcoin miner](https://github.com/jedi95/Phoenix-Miner) `Python` (jedi95)
 
 #### Wallets
+* [coinpunk: self-hosted Bitcoin wallet service](https://github.com/kyledrake/coinpunk) `Javascript` (kyledrake)
+* [termcoin: A bitcoin wallet for your terminal](https://github.com/chjj/termcoin) `Javascript` (chjj)
 * [pywallet: bitcoin wallet importer/exporter](https://github.com/joric/pywallet) `Python` (joric)
-* [bitcoin-wallet: A new kind of Bitcoin client use](https://github.com/elis/bitcoin-wallet) `Python` (elis)
+* [Hive: Bitcoin wallet for OS X](https://github.com/hivewallet/hive-osx) `Objective-C` (jsuder)
+* [bitaddress.org: JavaScript Client-Side Bitcoin Wallet Generator](https://github.com/pointbiz/bitaddress.org) `Javascript` (pointbiz)
+* [Multibit: desktop bitcoin client, powered by bitcoinj](https://github.com/jim618/multibit) `Java` (jim618)
+* [bitcoin-wallet: A new kind of Bitcoin client](https://github.com/elis/bitcoin-wallet) `Python` (elis)
 
 #### Clients
+* [electrum: Bitcoin thin client](https://github.com/spesmilo/electrum) `Python` (spesmilo)
+* [BitcoinArmory: Python-Based Bitcoin Software](https://github.com/etotheipi/BitcoinArmory) `Python` (etotheipi)
 * [bitcoin-js-remote: Javascript remote for bitcoind](https://github.com/tcatm/bitcoin-js-remote) `JavaScript` (tcatm)
 * [bitcoinjs-gui: Bitcoin client implementation in HTML5/JavaScript](https://github.com/bitcoinjs/bitcoinjs-gui) `JavaScript` (bitcoinjs)
 * [bitcoin-php: Bitcoin library for PHP](https://github.com/mikegogulski/bitcoin-php) `PHP` (mikegogulski)
@@ -64,12 +72,14 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [node-bitcoin: Communicate with bitcoind via JSON-RPC](https://github.com/freewil/node-bitcoin) `JavaScript` (freewil)
 
 #### Mobile
+* [bitcoin-wallet: Bitcoin Wallet app for your Android device](https://github.com/schildbach/bitcoin-wallet) `Java` (schildbach)
 * [bitcoinApp: bitcoin for iOS devices](https://github.com/udibr/bitcoinApp) `Objective-C` (udibr) 
 * [bitcoin-android: Send and receive bitcoins from your Android phone](https://github.com/barmstrong/bitcoin-android) `Java` (barmstrong)
 * [bitcoin-mobile-android](https://github.com/bitcoin-labs/bitcoin-mobile-android) `Java` (Schaaf)
 * [BitcoinDroid: A thin Android client for Bitcoin](https://github.com/opposablebrain/BitcoinDroid) `Java` (opposablebrain)
 
 #### Exchanges
+* [buttercoin: Opensource Bitcoin Exchange](https://github.com/buttercoin/buttercoin) `Javascript` (buttercoin)
 * [bitcoin-central: Bitcoin Central](https://github.com/davout/bitcoin-central) `Ruby` (davout)
 * [Dark-Exchange: Dark Exchange is a distributed p2p exchange for bitcoin.](https://github.com/macourtney/Dark-Exchange) `Clojure` (macourtney)
 * [btcnearme: Find Bitcoin traders near you... settle in cash](https://github.com/famulus/btcnearme) `Ruby` (famulus)
@@ -83,6 +93,8 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Zen-Cart-Bitcoin-Payment-Module: A payment modules to interact with bitcoind for zen cart.](https://github.com/jalder/Zen-Cart-Bitcoin-Payment-Module) `PHP` (jalder)
 
 #### Bots
+* [Bitcoin arbitrage: opportunity detector](https://github.com/maxme/bitcoin-arbitrage) `Python` (maxme)
+* [gekko: A bitcoin trading bot](https://github.com/askmike/gekko) `Node.js` (askmike)
 * [Redbit: Automated Bitcoin Trading Bot](https://github.com/hyppo/Redbit) `Python` (hyppo)
 
 #### Block Exploration
@@ -101,5 +113,6 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Bitcoin-mining-proxy: Multi-pool, multi-worker proxy for Bitcoin miners ](https://github.com/cdhowie/Bitcoin-mining-proxy) `PHP` (cdhowie)
 
 #### Sites
+* [bitstarter-leaderboard: Bitcoin-powered crowdfunder](https://github.com/startup-class/bitstarter-leaderboard) `Javascript` (Srinivasan)
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
 
