@@ -20,10 +20,14 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
 * [Annotated bitcoin paper](http://news.rapgenius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated) (Satoshi / Rap Genius Community)
+* [Proof of Ownership](http://frozenlock.files.wordpress.com/2011/11/master-bitcoin.pdf) (Fortin)
 
 #### Specifications
 * [BIP70: Payments Protocol](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) (Andresen)
 * [Working with the Payments Protocol](https://code.google.com/p/bitcoinj/wiki/PaymentProtocol) (Andresen)
+* [BIP32: Hierarchical Deterministic (HD) Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) (Wuille)
+* [BIP32 Implementation: Money Tree HD Wallet](https://github.com/BitVault/money-tree) (BitVault)
+* [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
 
 #### Videos
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
@@ -44,6 +48,9 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin-ruby: bitcoin utils and protocol in ruby.](https://github.com/lian/bitcoin-ruby) `Ruby` (lian)
 * [pycoin: Python-based Bitcoin utility library.](https://github.com/richardkiss/pycoin) `Python` (richardkiss)
 * [bitcoin-testnet-box: Create a private, difficulty 1 bitcoin testnet](https://github.com/freewil/bitcoin-testnet-Box) `Shell` (freewil)
+
+#### Non-currency Applications
+* [dissent: decentralized, transferable, and open software license system using the Bitcoin protocol](https://github.com/aaron-lebo/dissent) `Python` (Lebo)
 
 #### Miners
 * [poclbm: PyOpenCL bitcoin miner](https://github.com/m0mchil/poclbm) `Python` (m0mchil) 
@@ -69,7 +76,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin-wallet: A new kind of Bitcoin client](https://github.com/elis/bitcoin-wallet) `Python` (elis)
 * [picocoin: A small bitcoin client](https://github.com/jgarzik/picocoin) `C` (jgarzik)
 * [sx: sx - command line Bitcoin to empower the sysadmin](https://github.com/spesmilo/sx) `Python` (spesmilo)
-
+* [Safebit: Chrome app wallet](https://github.com/elis/Safebit) (elis)
 #### Clients
 * [libbitcoin: libbitcoin asynchronous C++ library for Bitcoin](https://github.com/spesmilo/libbitcoin) `C++` (spesmilo)
 * [electrum: Bitcoin thin client](https://github.com/spesmilo/electrum) `Python` (spesmilo)
@@ -143,6 +150,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [stratum-mining: Demo implementation of Bitcoin mining pool on Stratum protocol](https://github.com/slush0/stratum-mining) `Python` (slush0)
 
 #### Sites
+* [petulant-lana: A one-time-payment filehosting site, using Bitcoin](https://github.com/bearbin/petulant-lana) `Go` (bearbin)
 * [bitstarter-leaderboard: Bitcoin-powered crowdfunder](https://github.com/startup-class/bitstarter-leaderboard) `Javascript` (Srinivasan)
 * [feedopensource: Iteratively Fund Open Source Projects With Bitcoin](https://github.com/dominictarr/feedopensource) `JavaScript` (dominictarr)
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
