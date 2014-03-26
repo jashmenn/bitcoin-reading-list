@@ -17,6 +17,8 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) (Driscoll)
 * [Bitcoin Developer Guide](http://bitcoindev.us.to/en/developer-guide)
 * [Bitcoin Scripts](http://www.bitcoinsecurity.org/2012/07/22/7/) (Koshy)
+* [Proving Your Bitcoin Reserves](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) (Maxwell)
+* [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) (Ratcliff)
 
 #### Tutorials
 * [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) (Taaki)
@@ -38,6 +40,9 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 #### Videos
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
 * [Coding Multi-Signature Addresses](https://www.youtube.com/watch?v=zIbUSaZBJgU) (D'Angelo)
+
+#### API Docs
+* [Bitcoin Doxygen](https://dev.visucore.com/bitcoin/doxygen/annotated.html)
 
 ### <a name="code"></a>Code
 
@@ -162,6 +167,5 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitstarter-leaderboard: Bitcoin-powered crowdfunder](https://github.com/startup-class/bitstarter-leaderboard) `Javascript` (Srinivasan)
 * [feedopensource: Iteratively Fund Open Source Projects With Bitcoin](https://github.com/dominictarr/feedopensource) `JavaScript` (dominictarr)
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
-* [petulant-lana: A one-time-payment filehosting site, using Bitcoin, in Go.](https://github.com/bearbin/petulant-lana) `Go` (bearbin)
-
+* [BitHub: pay Bitcoin for GitHub commits](https://github.com/WhisperSystems/BitHub) `Java` (WhisperSystems) 
 
