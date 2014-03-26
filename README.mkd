@@ -45,6 +45,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 
 #### API Docs
 * [Bitcoin Doxygen](https://dev.visucore.com/bitcoin/doxygen/annotated.html)
+* [Original Bitcoin client/API calls list](https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list)
 
 ### <a name="code"></a>Code
 
