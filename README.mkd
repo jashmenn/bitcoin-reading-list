@@ -23,6 +23,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) (Taaki)
 * [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) (Ratcliff)
 * [How to extract every single bitcoin transaction from the blockchain and save it to an ASCII comma separated text file](http://codesuppository.blogspot.com/2014/03/how-to-extract-every-single-bitcoin.html) (Ratcliff)
+* [How To Clone Scrypt Based Altcoins for Fun and Profit](http://devtome.com/doku.php?id=scrypt_altcoin_cloning_guide&rev=1391981820) (shakezula)
 
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
