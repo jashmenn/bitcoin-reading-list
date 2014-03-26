@@ -56,6 +56,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 #### Tools
 * [pybitcointools: SImple, common-sense Bitcoin-themed Python ECC library](https://github.com/vbuterin/pybitcointools) `Python` (vbuterin)
 * [bitcointools: Python-based tools for the Bitcoin cryptocurrency system](https://github.com/gavinandresen/bitcointools) `Python` (gavinandresen)
+* [cryptocoin: Python module for working with cryptocurrencies](https://github.com/lyndsysimon/cryptocoin) `Python` (lyndsysimon)
 * [bitcoin-ruby: bitcoin utils and protocol in ruby.](https://github.com/lian/bitcoin-ruby) `Ruby` (lian)
 * [pycoin: Python-based Bitcoin utility library.](https://github.com/richardkiss/pycoin) `Python` (richardkiss)
 * [bitcoin-testnet-box: Create a private, difficulty 1 bitcoin testnet](https://github.com/freewil/bitcoin-testnet-Box) `Shell` (freewil)
