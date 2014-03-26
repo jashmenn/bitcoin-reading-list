@@ -18,10 +18,11 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Bitcoin Developer Guide](http://bitcoindev.us.to/en/developer-guide)
 * [Bitcoin Scripts](http://www.bitcoinsecurity.org/2012/07/22/7/) (Koshy)
 * [Proving Your Bitcoin Reserves](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) (Maxwell)
-* [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) (Ratcliff)
 
 #### Tutorials
 * [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) (Taaki)
+* [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) (Ratcliff)
+* [How to extract every single bitcoin transaction from the blockchain and save it to an ASCII comma separated text file](http://codesuppository.blogspot.com/2014/03/how-to-extract-every-single-bitcoin.html) (Ratcliff)
 
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
@@ -148,6 +149,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [ArBit: An automated Bitcoin arbitrage trading program.](https://github.com/goteppo/ArBit) `Go` (goteppo)
 * [cryptrade: Node.js Bitcoin bot for MtGox/Bitstamp/BTC-E/CEX.IO](https://github.com/pulsecat/cryptrade) `CoffeeScript` (pulsecat)
 * [btc-trader: Robot for Bitcoin trading on BTC-e](https://github.com/therussianphysicist/btc-trader) `Ruby` (therussianphysicist)
+* [ga-bitbot: Genetic algorithm trade system for bitcoin](https://code.google.com/p/ga-bitbot/) `Python` 
 
 #### Block Exploration
 * [bitcoin-abe: Abe: block browser for Bitcoin and similar currencies](https://github.com/jtobey/bitcoin-abe) `Python` (jtobey)
