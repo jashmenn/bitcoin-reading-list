@@ -63,6 +63,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin-qt: Qt GUI for C++ Bitcoin client](https://github.com/laanwj/bitcoin-qt) `C++` (laanwj)
 * [bitcoinjs-lib: Bitcoin-related functions implemented in pure JavaScript](https://github.com/bitcoinjs/bitcoinjs-lib) `JavaScript` (bitcoinjs)
 * [btcd: alternative full node bitcoin implementation written in Go](https://github.com/conformal/btcd) `Go` (conformal)
+* [bitcore: interface to the bitcoin network](http://bitcore.io/) `Javascript` (BitPay)
 
 #### Tools
 * [pybitcointools: SImple, common-sense Bitcoin-themed Python ECC library](https://github.com/vbuterin/pybitcointools) `Python` (vbuterin)
