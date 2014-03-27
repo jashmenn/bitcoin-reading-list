@@ -42,10 +42,10 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [BIP32: Hierarchical Deterministic (HD) Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) (Wuille)
 * [BIP32 Implementation: Money Tree HD Wallet](https://github.com/BitVault/money-tree) (BitVault)
 * [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
-* [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses)
-* [Transactions Reference](https://en.bitcoin.it/wiki/Transactions)
+* [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses)* [Transactions Reference](https://en.bitcoin.it/wiki/Transactions)
 * [Script Reference](https://en.bitcoin.it/wiki/Script)
 * [Raw Transactions API](https://en.bitcoin.it/wiki/Raw_Transactions)
+* [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
 
 #### Videos
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
