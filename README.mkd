@@ -29,6 +29,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Signing Offline Transactions](https://gist.github.com/jashmenn/9811205) (greg)
 * [2 of 2 escrow example](https://gist.github.com/jashmenn/9811198) (greg)
 * [2 of 3 multisig example](https://gist.github.com/jashmenn/9811185) (Andresen)
+* [How to decrypt messages in the blockchain from btcmsg](https://gist.github.com/ripper234/1625828) (ripper234)
 
 #### Papers
 * [Original bitcoin paper](https://bitcoin.org/bitcoin.pdf) (Satoshi)
@@ -46,6 +47,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Script Reference](https://en.bitcoin.it/wiki/Script)
 * [Raw Transactions API](https://en.bitcoin.it/wiki/Raw_Transactions)
 * [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
+* [The Mastercoin Protocol Specification](https://github.com/mastercoin-MSC/spec) (Gross)
 
 #### Videos
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
@@ -64,6 +66,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoinjs-lib: Bitcoin-related functions implemented in pure JavaScript](https://github.com/bitcoinjs/bitcoinjs-lib) `JavaScript` (bitcoinjs)
 * [btcd: alternative full node bitcoin implementation written in Go](https://github.com/conformal/btcd) `Go` (conformal)
 * [bitcore: interface to the bitcoin network](http://bitcore.io/) `Javascript` (BitPay)
+* [cbitcoin low-level bitcoin library in standard C](https://github.com/MatthewLM/cbitcoin/) `C` (Mitchell)
 
 #### Tools
 * [pybitcointools: SImple, common-sense Bitcoin-themed Python ECC library](https://github.com/vbuterin/pybitcointools) `Python` (vbuterin)
@@ -72,6 +75,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoin-ruby: bitcoin utils and protocol in ruby.](https://github.com/lian/bitcoin-ruby) `Ruby` (lian)
 * [pycoin: Python-based Bitcoin utility library.](https://github.com/richardkiss/pycoin) `Python` (richardkiss)
 * [bitcoin-testnet-box: Create a private, difficulty 1 bitcoin testnet](https://github.com/freewil/bitcoin-testnet-Box) `Shell` (freewil)
+* [mastercoin-tools](https://github.com/grazcoin/mastercoin-tools) `Javascript` (grazcoin)
 
 #### Non-currency Applications
 * [dissent: decentralized, transferable, and open software license system using the Bitcoin protocol](https://github.com/aaron-lebo/dissent) `Python` (Lebo)
