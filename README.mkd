@@ -1,4 +1,4 @@
-## Programming Bitcoin Reading List and Projects
+﻿## Programming Bitcoin Reading List and Projects
 
 * The goal of this document is to provide a reading list for learning to program Bitcoin transactions
 * The theme of this document is practical and pragmatic instruction with the goal of writing code 
@@ -65,6 +65,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [bitcoinj: Java implementation of a Bitcoin client-only node](https://code.google.com/p/bitcoinj/) `Java` (bitcoinj)
 * [bitcoin-qt: Qt GUI for C++ Bitcoin client](https://github.com/laanwj/bitcoin-qt) `C++` (laanwj)
 * [bitcoinjs-lib: Bitcoin-related functions implemented in pure JavaScript](https://github.com/bitcoinjs/bitcoinjs-lib) `JavaScript` (bitcoinjs)
+* [BitcoinLib: C# Bitcoin-Cli RPC Library & Wrapper for .Net projects](https://github.com/GeorgeKimionis/BitcoinLib) `C#` (GeorgeKimionis)
 * [btcd: alternative full node bitcoin implementation written in Go](https://github.com/conformal/btcd) `Go` (conformal)
 * [bitcore: interface to the bitcoin network](http://bitcore.io/) `Javascript` (BitPay)
 * [cbitcoin low-level bitcoin library in standard C](https://github.com/MatthewLM/cbitcoin/) `C` (Mitchell)
