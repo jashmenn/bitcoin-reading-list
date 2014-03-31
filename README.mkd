@@ -48,6 +48,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Raw Transactions API](https://en.bitcoin.it/wiki/Raw_Transactions)
 * [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
 * [The Mastercoin Protocol Specification](https://github.com/mastercoin-MSC/spec) (Gross)
+* [Counterparty: Financial Instruments (Announcement)](https://bitcointalk.org/index.php?topic=395761.0)
 
 #### Videos
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
@@ -124,6 +125,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [cbitcoin: A low-level bitcoin library written in standard C.](https://github.com/MatthewLM/cbitcoin) `C` (MatthewLM)
 * [GoBit: A Golang implementation of Bitcoin](https://github.com/ThePiachu/GoBit) `Go` (ThePiachu)
 * [Protocoin: A pure Python Bitcoin protocol implementation](https://github.com/perone/protocoin) `Python` (perone)
+* [BitcoinLib: C# Bitcoin-Cli RPC Library & Wrapper for .Net projects](https://github.com/GeorgeKimionis/BitcoinLib) `C#` (GeorgeKimionis)
 
 #### Mobile
 * [bitcoin-wallet: Bitcoin Wallet app for your Android device](https://github.com/schildbach/bitcoin-wallet) `Java` (schildbach)
