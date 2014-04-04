@@ -121,7 +121,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [chrome-bitcoin: bitcoin client in chrome](https://github.com/kiba/chrome-bitcoin) `JavaScript` (kiba)
 * [node-bitcoin: Communicate with bitcoind via JSON-RPC](https://github.com/freewil/node-bitcoin) `JavaScript` (freewil)
 * [gocoin: Bitcoin client library for Go / golang](https://github.com/piotrnar/gocoin) `Go` (piotrnar)
-* [python-bitcoinlib: Bitcoin library](https://github.com/jgarzik/python-bitcoinlib) `Python` (jgarzik)
+* [python-bitcoinlib: Bitcoin library](https://github.com/petertodd/python-bitcoinlib) `Python` (petertodd)
 * [cbitcoin: A low-level bitcoin library written in standard C.](https://github.com/MatthewLM/cbitcoin) `C` (MatthewLM)
 * [GoBit: A Golang implementation of Bitcoin](https://github.com/ThePiachu/GoBit) `Go` (ThePiachu)
 * [Protocoin: A pure Python Bitcoin protocol implementation](https://github.com/perone/protocoin) `Python` (perone)
