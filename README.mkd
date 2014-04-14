@@ -68,6 +68,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [btcd: alternative full node bitcoin implementation written in Go](https://github.com/conformal/btcd) `Go` (conformal)
 * [bitcore: interface to the bitcoin network](http://bitcore.io/) `Javascript` (BitPay)
 * [cbitcoin low-level bitcoin library in standard C](https://github.com/MatthewLM/cbitcoin/) `C` (Mitchell)
+* [btcwire: Implements the bitcoin wire protocol - core wire protocol package from btcd](https://github.com/conformal/btcwire) `Go` (conformal)
 
 #### Tools
 * [pybitcointools: SImple, common-sense Bitcoin-themed Python ECC library](https://github.com/vbuterin/pybitcointools) `Python` (vbuterin)
@@ -173,6 +174,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [insight: A bitcoin blockchain API for web wallets](https://github.com/bitpay/insight) `JavaScript` (bitpay)
 * [node-bitcoin-explorer: A Block Explorer clone built using node-bitcoin-p2p](https://github.com/bitcoinjs/node-bitcoin-explorer) `JavaScript` (bitcoinjs)
 * [btcplex: BTCplex is an open source Bitcoin block chain browser written in Go, it allows you to search and navigate the block chain.](https://github.com/tsileo/btcplex) `Go` (tsileo)
+* [blockparser: Fast, quick and dirty bitcoin blockchain parser](https://github.com/znort987/blockparser) `C++` (znort987)
 
 #### Pooling
 * [p2pool: Peer-to-peer Bitcoin mining pool](https://github.com/forrestv/p2pool) `Python` (forrestv)
