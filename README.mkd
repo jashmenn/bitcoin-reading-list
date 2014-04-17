@@ -191,3 +191,5 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
 * [BitHub: pay Bitcoin for GitHub commits](https://github.com/WhisperSystems/BitHub) `Java` (WhisperSystems) 
 
+#### Related Protocols
+* [bitid: Bitcoin Authentication Open Protocol](https://github.com/bitid/bitid) (Larch)
