@@ -137,6 +137,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [CoreBitcoin: Well-documented Bitcoin implementation in Objective-C](https://github.com/oleganza/CoreBitcoin) `C` (oleganza)
 * [wallet: Mycelium Bitcoin Wallet for Android](https://github.com/mycelium-com/wallet) `Java` (mycelium-com)
 * [BitcoinKit: Cocoa framework for creating Bitcoin wallet apps](https://github.com/hivewallet/BitcoinKit) `C` (hivewallet)
+* [BTCSquared: iOS framework for Bluetooth LE transactions](https://github.com/Gliph/BTCSquared) `Objective C` (Gliph)
 
 #### Exchanges
 * [buttercoin: Opensource Bitcoin Exchange](https://github.com/buttercoin/buttercoin) `Javascript` (buttercoin)
