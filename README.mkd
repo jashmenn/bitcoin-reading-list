@@ -107,6 +107,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [picocoin: A small bitcoin client](https://github.com/jgarzik/picocoin) `C` (jgarzik)
 * [sx: sx - command line Bitcoin to empower the sysadmin](https://github.com/spesmilo/sx) `Python` (spesmilo)
 * [Safebit: Chrome app wallet](https://github.com/elis/Safebit) (elis)
+* [Bitcoin-akka: a client to btcwallet, written in Scala and built on akka](https://github.com/goldmar/bitcoin-akka/) (goldmar)
 
 #### Clients
 * [libbitcoin: libbitcoin asynchronous C++ library for Bitcoin](https://github.com/spesmilo/libbitcoin) `C++` (spesmilo)
