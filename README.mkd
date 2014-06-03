@@ -50,6 +50,7 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [The Mastercoin Protocol Specification](https://github.com/mastercoin-MSC/spec) (Gross)
 * [Counterparty: Financial Instruments (Announcement)](https://bitcointalk.org/index.php?topic=395761.0)
 * 
+
 #### Discussion
 * [There Is No 'From' Address](https://iwilcox.me.uk/2014/no-from-address) (iwilcox)
 
