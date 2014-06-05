@@ -49,12 +49,12 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 * [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
 * [The Mastercoin Protocol Specification](https://github.com/mastercoin-MSC/spec) (Gross)
 * [Counterparty: Financial Instruments (Announcement)](https://bitcointalk.org/index.php?topic=395761.0)
-* 
 
 #### Discussion
 * [There Is No 'From' Address](https://iwilcox.me.uk/2014/no-from-address) (iwilcox)
 
 #### Videos
+* [Programming Bitcoin Youtube Channel](https://www.youtube.com/programmingbitcoin) (Murray)
 * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (Driscoll)
 * [Coding Multi-Signature Addresses](https://www.youtube.com/watch?v=zIbUSaZBJgU) (D'Angelo)
 
