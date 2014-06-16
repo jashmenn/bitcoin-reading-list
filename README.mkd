@@ -52,6 +52,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 #### Discussion
 * [There Is No 'From' Address](https://iwilcox.me.uk/2014/no-from-address) (iwilcox)
+* [Disentangling Crypto-Coin Mining: Timestamping, Proof-of-Publication, and Validation](http://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg03307.html) (Todd)
 
 #### Videos
 * [Programming Bitcoin Youtube Channel](https://www.youtube.com/programmingbitcoin) (Murray)
@@ -67,6 +68,9 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [Why do people think that side-chains are going to be secure?](http://www.reddit.com/r/Bitcoin/comments/22vn4m/why_do_people_think_that_sidechains_are_going_to/cgqy5w6) (nullc)
 * [Discussion on 2-way pegging: is there a way to do bitcoin-staging?](http://sourceforge.net/p/bitcoin/mailman/bitcoin-development/thread/20130519132359.GA12366%40netbook.cypherspace.org/#msg30868065)
 * [Sidechains, Treechains, the TL;DR](http://blog.greenaddress.it/2014/06/13/sidechains-treechains-the-tldr/) (Sanders)
+* [Sidechains Explained](http://cryptobizmagazine.com/sidechains-explained/) (Payne)
+* [Side Chains: The How, The Challenges and the Potential](http://bitcoinmagazine.com/12349/side-chains-challenges-potential/) (Buterin)
+* [Sidechain Technical Feasibility Discussion](https://bitcointalk.org/index.php?topic=566704.0;all) (discussion)
 * [Alternative Chains / merged mining](https://en.bitcoin.it/wiki/Alternative_Chains) 
 
 ### <a name="code"></a>Code
