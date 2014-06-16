@@ -43,7 +43,8 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [BIP32: Hierarchical Deterministic (HD) Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) (Wuille)
 * [BIP32 Implementation: Money Tree HD Wallet](https://github.com/BitVault/money-tree) (BitVault)
 * [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
-* [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses)* [Transactions Reference](https://en.bitcoin.it/wiki/Transactions)
+* [Technical background of version 1 Bitcoin addresses](https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses)
+* [Transactions Reference](https://en.bitcoin.it/wiki/Transactions)
 * [Script Reference](https://en.bitcoin.it/wiki/Script)
 * [Raw Transactions API](https://en.bitcoin.it/wiki/Raw_Transactions)
 * [Colored Coins Protocol Specification](https://github.com/Flavien/colored-coins-protocol/blob/master/specification.mediawiki) (Flavien)
@@ -53,6 +54,8 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 #### Discussion
 * [There Is No 'From' Address](https://iwilcox.me.uk/2014/no-from-address) (iwilcox)
 * [Disentangling Crypto-Coin Mining: Timestamping, Proof-of-Publication, and Validation](http://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg03307.html) (Todd)
+* [Double-spending unconfirmed transactions is a lot easier than most people realise](  http://www.reddit.com/r/Bitcoin/comments/239bj1/doublespending_unconfirmed_transactions_is_a_lot/) (Todd)
+* [Replace-by-fee scorched-earth without child-pays-for-parent](http://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg05211.html) (Todd / Anonymous)
 
 #### Videos
 * [Programming Bitcoin Youtube Channel](https://www.youtube.com/programmingbitcoin) (Murray)
@@ -101,6 +104,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 #### Non-currency Applications
 * [dissent: decentralized, transferable, and open software license system using the Bitcoin protocol](https://github.com/aaron-lebo/dissent) `Python` (Lebo)
+* [paypub: Trustless payments for information publishing on Bitcoin](https://github.com/unsystem/paypub) `C++` (Taaki / Todd)
 
 #### Miners
 * [poclbm: PyOpenCL bitcoin miner](https://github.com/m0mchil/poclbm) `Python` (m0mchil) 
