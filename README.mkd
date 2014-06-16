@@ -3,7 +3,7 @@
 * The goal of this document is to provide a reading list for learning to program Bitcoin transactions
 * The theme of this document is practical and pragmatic instruction with the goal of writing code 
 
-The document is split into two major sections: [Code](#code) and [Content](#content)
+The document is split into two major sections: [Content](#content) and [Code](#code)
 
 * The Content section contains a reading list which emphasizes programming Bitcoin transactions
 * The Code section contains a list of open-source bitcoin projects ranging from modern popular tools to early historic implementations
@@ -61,6 +61,13 @@ The document is split into two major sections: [Code](#code) and [Content](#cont
 #### API Docs
 * [Bitcoin Doxygen](https://dev.visucore.com/bitcoin/doxygen/annotated.html)
 * [Original Bitcoin client/API calls list](https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list)
+
+#### Sidechains
+* [Tree-chains preliminary summary](http://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg04388.html) (Todd)
+* [Why do people think that side-chains are going to be secure?](http://www.reddit.com/r/Bitcoin/comments/22vn4m/why_do_people_think_that_sidechains_are_going_to/cgqy5w6) (nullc)
+* [Discussion on 2-way pegging: is there a way to do bitcoin-staging?](http://sourceforge.net/p/bitcoin/mailman/bitcoin-development/thread/20130519132359.GA12366%40netbook.cypherspace.org/#msg30868065)
+* [Sidechains, Treechains, the TL;DR](http://blog.greenaddress.it/2014/06/13/sidechains-treechains-the-tldr/) (Sanders)
+* [Alternative Chains / merged mining](https://en.bitcoin.it/wiki/Alternative_Chains) 
 
 ### <a name="code"></a>Code
 
