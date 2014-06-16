@@ -73,6 +73,11 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [Sidechain Technical Feasibility Discussion](https://bitcointalk.org/index.php?topic=566704.0;all) (discussion)
 * [Alternative Chains / merged mining](https://en.bitcoin.it/wiki/Alternative_Chains) 
 
+#### Beyond Payments
+* [Timelock: time-release encryption incentivised by Bitcoins](http://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg05547.html) (Todd / Taaki)
+* [Decentralized digital asset exchange with honest pricing and market depth](http://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg03892.html) (Todd / Mizrahi)
+
+
 ### <a name="code"></a>Code
 
 #### Core
