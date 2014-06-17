@@ -68,7 +68,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 #### Sidechains
 * [Tree-chains preliminary summary](http://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg04388.html) (Todd)
-* [Why do people think that side-chains are going to be secure?](http://www.reddit.com/r/Bitcoin/comments/22vn4m/why_do_people_think_that_sidechains_are_going_to/cgqy5w6) (nullc)
+* [Why do people think that side-chains are going to be secure?](http://www.reddit.com/r/Bitcoin/comments/22vn4m/why_do_people_think_that_sidechains_are_going_to/cgqy5w6) (Maxwell)
 * [Discussion on 2-way pegging: is there a way to do bitcoin-staging?](http://sourceforge.net/p/bitcoin/mailman/bitcoin-development/thread/20130519132359.GA12366%40netbook.cypherspace.org/#msg30868065)
 * [Sidechains, Treechains, the TL;DR](http://blog.greenaddress.it/2014/06/13/sidechains-treechains-the-tldr/) (Sanders)
 * [Sidechains Explained](http://cryptobizmagazine.com/sidechains-explained/) (Payne)
