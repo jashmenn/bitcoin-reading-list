@@ -104,6 +104,8 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 #### Non-currency Applications
 * [dissent: decentralized, transferable, and open software license system using the Bitcoin protocol](https://github.com/aaron-lebo/dissent) `Python` (Lebo)
+
+#### Beyond Payments
 * [paypub: Trustless payments for information publishing on Bitcoin](https://github.com/unsystem/paypub) `C++` (Taaki / Todd)
 
 #### Miners
