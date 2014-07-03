@@ -189,6 +189,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [MultiBitMerchant: A free and open source Bitcoin ecommerce platform, with several representative clients](https://github.com/gary-rowe/MultiBitMerchant) `Java` (gary-rowe)
 
 #### Bots
+* [avarice: Multi-Indicator Trading Bot](https://github.com/Galts-Gulch/avarice) `Python` (Galts-Gulch)
 * [Bitcoin arbitrage: opportunity detector](https://github.com/maxme/bitcoin-arbitrage) `Python` (maxme)
 * [gekko: A bitcoin trading bot](https://github.com/askmike/gekko) `Node.js` (askmike)
 * [Redbit: Automated Bitcoin Trading Bot](https://github.com/hyppo/Redbit) `Python` (hyppo)
