@@ -153,7 +153,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [cbitcoin: A low-level bitcoin library written in standard C.](https://github.com/MatthewLM/cbitcoin) `C` (MatthewLM)
 * [GoBit: A Golang implementation of Bitcoin](https://github.com/ThePiachu/GoBit) `Go` (ThePiachu)
 * [Protocoin: A pure Python Bitcoin protocol implementation](https://github.com/perone/protocoin) `Python` (perone)
-* [BitcoinLib: C# Bitcoin-Cli RPC Library & Wrapper for .Net projects](https://github.com/GeorgeKimionis/BitcoinLib) `C#` (GeorgeKimionis)
+* [BitcoinLib: C# Bitcoin, Litecoin and Bitcoin-Clones Library & RPC Wrapper](https://github.com/GeorgeKimionis/BitcoinLib) `C#` (GeorgeKimionis)
 
 #### Mobile
 * [bitcoin-wallet: Bitcoin Wallet app for your Android device](https://github.com/schildbach/bitcoin-wallet) `Java` (schildbach)
