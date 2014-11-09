@@ -80,6 +80,8 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [Timelock: time-release encryption incentivised by Bitcoins](http://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg05547.html) (Todd / Taaki)
 * [Decentralized digital asset exchange with honest pricing and market depth](http://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg03892.html) (Todd / Mizrahi)
 
+#### Aggregation
+* [Wizard-recommended Bitcoin content](http://bitcoin.ninja/)
 
 ### <a name="code"></a>Code
 
