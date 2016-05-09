@@ -221,3 +221,4 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 
 #### Related Protocols
 * [bitid: Bitcoin Authentication Open Protocol](https://github.com/bitid/bitid) (Larch)
+* [Blockstack Authentication Protocol](https://github.com/blockstack/blockstack-auth-js) (Blockstack)
